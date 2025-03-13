@@ -1,4 +1,4 @@
-# Furyxzia Portfolio Website 
+# Portfolio Website 
 It is a portfolio website to showcase Furyxzia's works.
 
 # Languages And Technologies
